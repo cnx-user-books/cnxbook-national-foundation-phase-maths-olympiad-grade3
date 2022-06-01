@@ -1,0 +1,184 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>National Foundation Phase Maths Olympiad - Grade three - final round - 2006</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35671</md:content-id>
+  <md:title>National Foundation Phase Maths Olympiad - Grade three - final round - 2006</md:title>
+  <md:abstract>Olympiad questions for grade three maths</md:abstract>
+  <md:uuid>6496438a-5951-460f-b7d1-4264ca5dd0d8</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167239433496">
+      <title>INSTITUTE FOR ADVANCEMENT OF MATHEMATICS AND SCIENCE (IAMS) NATIONAL FOUNDATION PHASE MATHEMATICS OLYMPIAD</title>
+      <figure id="id1167247209273">
+        <media id="id1167247209273_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1.png" id="id1167247209273__onlineimage" height="173" width="195"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id7910171">
+      <title>GRADE THREE – FINAL ROUND PAPER: 2006 QUESTION BOOKLET</title>
+      <para id="id1167235757247">DURATION: 1 HOUR 15 MINUTES </para>
+      <para id="id3603779">MARKS: 20</para>
+      <para id="id1167241107832">NAME OF LEARNER:___________________________________ </para>
+      <para id="id1167246758183">NAME OF SCHOOL:____________________________________</para>
+    </section>
+    <section id="id1966349">
+      <title>INSTRUCTIONS TO LEARNERS:</title>
+      <para id="id1167254971707">1. You are expected to answer 15 questions.</para>
+      <para id="id1167241689069">2. These are multiple choice questions. Circle the correct answer.</para>
+      <para id="id7954772">3. Use blank pages for working. Circle the answer after you have done the working.</para>
+      <para id="id1167241861238">4. You are not allowed to use the calculator.</para>
+      <para id="id1167236684885">5. Read the question carefully before answering. Don’t rush.</para>
+      <para id="id7402973">6. Your teacher will read the question to you.</para>
+      <para id="id1167234525526">7. First 10 questions – 1 mark each.</para>
+      <para id="id1167238990954">8. Questions 11-20: 2 marks each.</para>
+      <para id="id1167248606874">ENJOY THE OLYMPIAD</para>
+    </section>
+    <section id="id1167241628103">
+      <title>Test Questions:</title>
+      <section id="id6097184">
+        <title>Exercise 1</title>
+        <para id="id1167256979197">What is the 12<sup>th</sup> number of this sequence?</para>
+        <para id="id1167234658109">5 ; 9; 13 ; 17 ; . . . </para>
+      </section>
+      <section id="id1167241194317">
+        <title>Exercise 2</title>
+        <para id="id1167254679254">Virginia counted in 3’s as follows:</para>
+        <para id="id1167238900995">3; 6; 9; 12; . . .</para>
+        <para id="id1167234490765">She stopped at the 51<sup>st</sup> number.What number did she count last?</para>
+      </section>
+      <section id="id1167241570229">
+        <title>Exercise 3</title>
+        <para id="id1167244101633">Find the value of 
+<m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mo stretchy="false">Δ</m:mo><m:annotation encoding="StarMath 5.0">%DELTA</m:annotation></m:semantics></m:math>:</para>
+        <equation id="id1167254941107">
+          <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">Δ</m:mo>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mo stretchy="false">Δ</m:mo>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mo stretchy="false">Δ</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">−</m:mo>
+                  <m:mo stretchy="false">O</m:mo>
+                </m:mrow>
+                <m:mo stretchy="false">=</m:mo>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>24</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mo stretchy="false">Δ</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">−</m:mo>
+                  <m:mo stretchy="false">O</m:mo>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">%DELTA + %DELTA + %DELTA - %OMICRON = 24 + %DELTA - %OMICRON</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+      </section>
+      <section id="id1167248693027">
+        <title>Exercise 4</title>
+        <para id="id1167249737722">Each letter in the following subtraction problem represents a digit. What is the value of B?</para>
+        <figure id="id7371001">
+          <media id="id7371001_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-6bae.png" id="id7371001__onlineimage" height="67" width="55"/>
+          </media>
+        </figure>
+      </section>
+      <section id="id1167242765654">
+        <title>Exercise 5</title>
+        <para id="id1167241084729">Mandy said that 
+<m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:annotation encoding="StarMath 5.0">3 over 4</m:annotation></m:semantics></m:math> of the total number of health biscuits is 33. What is the total number of health biscuits?</para>
+      </section>
+      <section id="id1167240569189">
+        <title>Exercise 6</title>
+        <para id="id1167235871881">Matchsticks are used to make the following blocks:</para>
+        <figure id="id1167256150286">
+          <media id="id1167256150286_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-46e5.png" id="id1167256150286__onlineimage" height="96" width="216"/>
+          </media>
+        </figure>
+        <para id="id1167241517778">How many blocks are there in the 9<sup>th</sup> figure?</para>
+      </section>
+      <section id="id1167246688173">
+        <title>Exercise 7</title>
+        <para id="id1167229249680">How many blocks are there in this stack?</para>
+        <para id="id1167251124464">
+          <figure id="id1167240348840">
+            <media id="id1167240348840_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics5-818c.png" id="id1167240348840__onlineimage" height="164" width="248"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <section id="id1167237528785">
+        <title>Exercise 8</title>
+        <para id="id1167239246194">4 different counting numbers (starting from 1) were added to give 56 . What is the largest possible number that could have been added ?</para>
+      </section>
+      <section id="id1167250523900">
+        <title>Exercise 9</title>
+        <para id="id1167246535575">Ben makes 3 paper jets in 10 minutes. Victoria makes 4 paper jets in 20 minutes. If both work together and at the same rate then how many paper jets could be made in 1 hour?</para>
+      </section>
+      <section id="id2340319">
+        <title>Exercise 10</title>
+        <para id="id1787927">Guess the number I stand for.</para>
+        <para id="id1167248897649">* I am a 3 digit number.</para>
+        <para id="id1167249050535">* My unit’s digit is 3 more than my hundred’s digit.</para>
+        <para id="id1167239842478">* My ten’s digit is the same as my unit's digit.</para>
+        <para id="id1167241464619">* The sum of my digits is 18.</para>
+      </section>
+      <section id="id1167234242499">
+        <title>Exercise 11</title>
+        <para id="id1167253963058">Try to work out what * is doing to the 2 numbers.</para>
+        <para id="id1167245839581">3 * 1 = 5 </para>
+        <para id="id1167248696953">4 * 4 = 4</para>
+        <para id="id1167251775424">3 * 3 = 3</para>
+        <para id="id1167234867110">6 * 2 = 10</para>
+        <para id="id1167244435157">Now find the answer to :</para>
+        <para id="id1167235500336">9 * 3</para>
+      </section>
+      <section id="id1167244843074">
+        <title>Exercise 12</title>
+        <para id="id1167237722780">In the following game the rule is double the number in the left block and add to the number in the right block to give the number in the block above it.</para>
+        <para id="id1167254617596">
+          <figure id="id7780132">
+            <media id="id7780132_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-3c02.png" id="id7780132__onlineimage" height="105" width="138"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id4955021">Find the number in block A.</para>
+      </section>
+      <section id="id1167252291320">
+        <title>Exercise 13</title>
+        <para id="id1167256679266">Given the following information, who is the tallest?</para>
+        <para id="id7123092">Al is shorter than Sipho.</para>
+        <para id="id1167248583610">Jerry is taller than Frank.</para>
+        <para id="id1167236634449">Frank is taller than Al.</para>
+      </section>
+      <section id="id1167239249364">
+        <title>Exercise 14</title>
+        <para id="id1167241558110">Calculate:</para>
+        <para id="id1167237563100">100 – 98 + 96 - 94 + 92 - 90 + . . . + 4 – 2.</para>
+      </section>
+      <section id="id1167246692918">
+        <title>Exercise 15</title>
+        <para id="id5218534">There are 4 envelopes.</para>
+        <para id="id1167246402925">* Envelope 2 has R6 more than envelope 1.</para>
+        <para id="id3618327">* Envelope 3 has R6 more than envelope 2.</para>
+        <para id="id1167255177164">* Envelope 4 has R6 more than envelope 3.</para>
+        <para id="id1167234802269">There is a total of R196 in the four envelopes.</para>
+        <para id="id1167258809136">Determine the amount of money in envelope 1.</para>
+      </section>
+    </section>
+  </content>
+</document>
