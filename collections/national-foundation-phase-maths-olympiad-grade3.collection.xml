@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11231</md:content-id>  <md:title>National Foundation Phase Maths Olympiad - Grade3</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>5bc8edd3-5069-418c-83c6-e364ec705142</md:uuid>
-<md:slug>national-foundation-phase-maths-olympiad-grade3</md:slug>
-</metadata>  <col:content>          <col:module document="m35678"/>                            <col:module document="m35671"/>                            <col:module document="m35677"/>                            <col:module document="m35645"/>                            <col:module document="m35674"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="The Association for Mathematics Education of  South Africa - Kwa-Zulu Natal">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11231</md:content-id>
+    <md:title>National Foundation Phase Maths Olympiad - Grade3</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>5bc8edd3-5069-418c-83c6-e364ec705142</md:uuid>
+    <md:slug>national-foundation-phase-maths-olympiad-grade3</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m35678"/>
+    <col:module document="m35671"/>
+    <col:module document="m35677"/>
+    <col:module document="m35645"/>
+    <col:module document="m35674"/>
+  </col:content>
+</col:collection>
